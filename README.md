@@ -27,10 +27,12 @@ Graduate Teaching Assistant @ University of Minnesota - Duluth (_August 2019 - M
 ## Projects
 
 ### Mapping Epidemic Spread with Transportation-Based SEIR Models
-- Processed COVID-19 infection data for analysis and model fitting.
-- Conducted simulations
+Developed a network-based compartmental model using ordinary differential equations to account for the effects of transportation on disease spread. 
+COVID-19 data processing, parameter estimation, and simulations were conducted using **Python**. This model allows for the prediction of disease spread through
+both the spatial and temporal dimension. 
 
 ![Covid Figures](/assets/img/covid_figures.png)
+
 ### IBM Data Science Capstone
 
 ### IBM Machine Learning Capstone
