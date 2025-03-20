@@ -8,7 +8,7 @@ M.S. Mathematical Science| University of Minnesota - Duluth (2021)
 B.S. Mathematics| University of Wisconsin - River Falls (2019)
 
 ## Certificates
-
+[IBM Machine Learning]([https://www.mdpi.com/1424-8220/22/11/4240](https://www.coursera.org/account/accomplishments/specialization/KHIT6QIBV51K))
 ## Work Experience
 **Graduate Research Assistant @ Central Michigan University (_January 2025 - Present_)**
 
