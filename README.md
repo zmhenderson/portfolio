@@ -83,7 +83,9 @@ Henderson, Z. M. (2024). Properly even harmonious labeling of a union of stars. 
 
 [Infectious Disease Modelling Specialization - Imperial College London (Coursera)](https://www.coursera.org/account/accomplishments/specialization/TJSLQUS5JSRZ)
 
-[Epidemiology in Public Health Practice - Johns Hopkins University (Coursera)](https://www.coursera.org/account/accomplishments/specialization/ANRQ3NJFCA8N)
+[Epidemiology in Public Health Practice Specialization - Johns Hopkins University (Coursera)](https://www.coursera.org/account/accomplishments/specialization/ANRQ3NJFCA8N)
+
+[Practical Time Series Anaysis Course - The State University of New York (Coursera)](https://www.coursera.org/account/accomplishments/verify/XBUMLUP976WB)
 
 ## Awards & Service 
 
