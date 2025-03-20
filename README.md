@@ -7,4 +7,6 @@
 - M.S. Mathematical Science	| University of Minnesota - Duluth 	 			        		
 - B.S. Mathematics 		| University of Wisconsin - River Falls
 
+## Projects
+
 								       		
