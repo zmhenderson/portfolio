@@ -30,6 +30,8 @@ B.S. Mathematics | | University of Wisconsin - River Falls (2019)
 
 ## Publications
 
+Henderson, Z. M. (2024). Properly even harmonious labeling of a union of stars. Electronic Journal of Graph Theory & Applications, 12(1), 1-16. [Publication](https://www.ejgta.org/index.php/ejgta/article/view/1375)
+
 ## Additional Certificates
 
 [Image Processing for Engineering and Science Specialization - MathWorks (Coursera)](https://www.coursera.org/account/accomplishments/specialization/VRYY92H3LQPV)
