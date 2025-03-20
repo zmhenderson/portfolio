@@ -26,11 +26,19 @@ B.S. Mathematics | | University of Wisconsin - River Falls (2019)
 
 ## Projects
 
+### Mapping Epidemic Spread with Transportation-Based SEIR Models
+
+### IBM Data Science Capstone
+
+### IBM Machine Learning Capstone
+
+### Kaggle Challenge: Space Titanic
+
 ## Presentations
 
 ## Publications
 
-Henderson, Z. M. (2024). Properly even harmonious labeling of a union of stars. Electronic Journal of Graph Theory & Applications, 12(1), 1-16. [Publication](https://www.ejgta.org/index.php/ejgta/article/view/1375)
+Henderson, Z. M. (2024). Properly even harmonious labeling of a union of stars. Electronic Journal of Graph Theory & Applications, 12(1), 1-16. ([Publication](https://www.ejgta.org/index.php/ejgta/article/view/1375))
 
 ## Additional Certificates
 
