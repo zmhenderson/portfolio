@@ -37,7 +37,7 @@ B.S. Mathematics | | University of Wisconsin - River Falls (2019)
 ## Presentations
 
 Three Minute Thesis | Mt. Pleasant, MI
--A Transportation Model for Infectious Disease Prediction
+- A Transportation Model for Infectious Disease Prediction
 
 SIMIODE EXPO 2025 Conference | Virtual
 - A Transportation-Based SEIR Model for Infectious Disease Prediction
