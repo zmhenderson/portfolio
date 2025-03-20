@@ -12,9 +12,16 @@ B.S. Mathematics | | University of Wisconsin - River Falls (2019)
 
 ## Certificates
 
-[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/29JW4NIZ6RT5)
+[IBM Data Science Professional Certificate (Coursera)](https://www.coursera.org/account/accomplishments/specialization/29JW4NIZ6RT5)
 
-[IBM Machine Learning Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/KHIT6QIBV51K)
+[IBM Machine Learning Professional Certificate (Coursera)](https://www.coursera.org/account/accomplishments/specialization/KHIT6QIBV51K)
+
+## Work Experience
+**Graduate Research Assistant @ Central Michigan University (_January 2025 - Present_)**
+
+## Projects
+
+## Additional Certificates
 
 [Image Processing for Engineering and Science Specialization - MathWorks (Coursera)](https://www.coursera.org/account/accomplishments/specialization/VRYY92H3LQPV)
 
@@ -24,9 +31,5 @@ B.S. Mathematics | | University of Wisconsin - River Falls (2019)
 
 [Epidemiology in Public Health Practice - Johns Hopkins University (Coursera)](https://www.coursera.org/account/accomplishments/specialization/ANRQ3NJFCA8N)
 
-## Work Experience
-**Graduate Research Assistant @ Central Michigan University (_January 2025 - Present_)**
-
-## Projects
 
 								       		
