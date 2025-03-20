@@ -36,6 +36,12 @@ B.S. Mathematics | | University of Wisconsin - River Falls (2019)
 
 ## Presentations
 
+Three Minute Thesis | Mt. Pleasant, MI
+- A Transportation Model for Infectious Disease Prediction
+
+SIMIODE EXPO 2025 Conference | Virtual
+- A Transportation-Based SEIR Model for Infectious Disease Prediction
+  
 ## Publications
 
 Henderson, Z. M. (2024). Properly even harmonious labeling of a union of stars. Electronic Journal of Graph Theory & Applications, 12(1), 1-16. ([Publication](https://www.ejgta.org/index.php/ejgta/article/view/1375))
