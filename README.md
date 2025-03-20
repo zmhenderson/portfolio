@@ -36,11 +36,20 @@ B.S. Mathematics | | University of Wisconsin - River Falls (2019)
 
 ## Presentations
 
-Three Minute Thesis | Mt. Pleasant, MI
-- A Transportation Model for Infectious Disease Prediction
+Three Minute Thesis | Mt. Pleasant, MI | February 2025
+- _A Transportation Model for Infectious Disease Prediction_
 
-SIMIODE EXPO 2025 Conference | Virtual
-- A Transportation-Based SEIR Model for Infectious Disease Prediction
+SIMIODE EXPO 2025 Conference | Virtual | February 2025
+- _A Transportation-Based SEIR Model for Infectious Disease Prediction_
+
+American Chemical Society Midland Fall Scientific Meeting | Midland, MI | October 2024
+- _A Network-Based SEIR Model for COVID-like Infectious Diseases via U.S. Air Transportation_
+
+AMS Graduate Student Chapter | Mt. Pleasant, MI | September 2024
+- _Graduate Student Spotlight_
+
+Saint John's University | Collegeville, MN | April 2019
+- _Dragons & Mathematical Modelling_
   
 ## Publications
 
