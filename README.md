@@ -48,6 +48,10 @@ Utilized **Data Analysis** and **Machine Learning** methods to determined which 
 
 ### IBM Machine Learning Capstone
 
+Utilized unsupervised and supervised **Machine Learning** methods to build a personalized online course recommender system for students at a hypothetical university. Unsupervised methods included K-Means Clustering and Principal Component Analysis while supervised methods included KNN and Neural Networks.  
+
+![ML Figures](/assets/img/ml_figures.png)
+
 ### Kaggle Challenge: Space Titanic
 
 ## Presentations
