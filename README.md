@@ -18,16 +18,18 @@ B.S. Mathematics | | University of Wisconsin - River Falls (2019)
 
 ## Work Experience
 
-**Graduate Research Assistant @ Central Michigan University (_January 2025 - Present_)**
+Graduate Research Assistant @ Central Michigan University (_January 2025 - Present_)
 
-**Graduate Teaching Assistant @ Central Michigan University (_August 2021 - December 2025_)**
+Graduate Teaching Assistant @ Central Michigan University (_August 2021 - December 2025_)
 
-**Graduate Teaching Assistant @ University of Minnesota - Duluth (_August 2019 - May 2021_)**
+Graduate Teaching Assistant @ University of Minnesota - Duluth (_August 2019 - May 2021_)
 
 ## Projects
 
 ### Mapping Epidemic Spread with Transportation-Based SEIR Models
-
+- Processed COVID-19 infection data for analysis and model fitting.
+- Conducted simulations
+- 
 ### IBM Data Science Capstone
 
 ### IBM Machine Learning Capstone
