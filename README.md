@@ -40,6 +40,9 @@ both the spatial and temporal dimension.
 ![Covid Figures](/assets/img/covid_figures.png)
 
 ### IBM Data Science Capstone
+[Data Science Capstone Repository](https://github.com/zmhenderson/IBM-Data-Science-Capstone)
+
+Utilized **Data Analysis** and **Machine Learning** methods to determined which Space-X Falcon 9 first-stage rockets will land successfully to support the efforts of a hypothetical competitor. Methods involved exploratory data analysis, creating interactive maps with **Folium**, and training machine learning models to properly classify rocket launches. 
 
 ### IBM Machine Learning Capstone
 
