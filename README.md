@@ -1,6 +1,6 @@
 # Applied Mathematician & Educator
 
-#### Technical Skills: Python, R, Statistical Analysis
+#### Technical Skills: Python, R, Network Analysis, Statistical Analysis
 
 ## Education
 
