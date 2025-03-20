@@ -1,4 +1,4 @@
-# Applied Mathematician
+# Applied Mathematician & Educator
 
 #### Technical Skills: Python, R, Statistical Analysis
 
@@ -20,9 +20,15 @@ B.S. Mathematics | | University of Wisconsin - River Falls (2019)
 
 Graduate Research Assistant @ Central Michigan University (_January 2025 - Present_)
 
+Mathematical Contest in Modeling Triage Judge @ COMAP: Consortium for Mathematics and its Applications (_Spring 2020 - 2025_)
+
 Graduate Teaching Assistant @ Central Michigan University (_August 2021 - December 2025_)
 
+Summer Camp Mathematics Instructor @ AlphaStar Academy (_Summer 2023, 2024_)
+
 Graduate Teaching Assistant @ University of Minnesota - Duluth (_August 2019 - May 2021_)
+
+Intermediate Chess Course Co-Developer @ Northern Star Online, District 287 (_Summer 2022_)
 
 ## Projects
 
