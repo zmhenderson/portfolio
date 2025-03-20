@@ -3,4 +3,4 @@
 #### Technical Skills: Python, R
 
 ## Education
-- Ph.D. Candidate, Mathematics | The University of Texas at Dallas (_May 2022_)								       		
+- Ph.D. Candidate, Mathematics | Central Michigan University (expected _2025_)								       		
