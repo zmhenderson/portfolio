@@ -29,7 +29,8 @@ Graduate Teaching Assistant @ University of Minnesota - Duluth (_August 2019 - M
 ### Mapping Epidemic Spread with Transportation-Based SEIR Models
 - Processed COVID-19 infection data for analysis and model fitting.
 - Conducted simulations
-- 
+
+![Covid Figures](/assets/img/covid_figures.png)
 ### IBM Data Science Capstone
 
 ### IBM Machine Learning Capstone
