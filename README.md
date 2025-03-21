@@ -89,7 +89,7 @@ Henderson, Z. M. (2024). Properly even harmonious labeling of a union of stars. 
 
 ## Awards & Service 
 
-Department of Mathematics Outstanding Teaching Assistant | Central Michigan University (_2024_)
+Department of Mathematics Outstanding Teaching Assistant ||| Central Michigan University (_2024_)
 
 American Mathematical Society (AMS) Graduate Student Chapter Vice President | Central Michigan University (_2024-_)
 
