@@ -2,8 +2,7 @@
 
 #### Technical Skills: Python, R, Network Analysis, Statistical Analysis
 
-| Degree                          | University                          | Year     |
-|---------------------------------|-------------------------------------|----------|
+
 | Ph.D. Candidate, Mathematics    | Central Michigan University         | 2025     |
 | M.S. Mathematical Science       | University of Minnesota - Duluth    | 2021     |
 | Minor: Related Fields (Statistics) |                                   |          |
