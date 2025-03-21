@@ -10,10 +10,9 @@
 
 ## Education
 
-|Ph.D. Candidate, Mathematics | Central Michigan University (_expected 2025_)| 
-|M.S. Mathematical Science (Minor: Related Fields - Statistics) | University of Minnesota - Duluth (_2021_)|
-
-|B.S. Mathematics | University of Wisconsin - River Falls (_2019_)|
+|Ph.D. Candidate, Mathematics | Central Michigan University |(_expected 2025_)| 
+|M.S. Mathematical Science (Minor: Related Fields - Statistics) | University of Minnesota - Duluth |_2021_|
+|B.S. Mathematics | University of Wisconsin - River Falls |(_2019_)|
 
 ## Data Certificates
 
