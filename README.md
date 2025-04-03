@@ -62,6 +62,7 @@ Three Minute Thesis | Mt. Pleasant, MI | February 2025
 
 SIMIODE EXPO 2025 Conference | Virtual | February 2025
 - _A Transportation-Based SEIR Model for Infectious Disease Prediction_
+- [Presentation YouTube Link](https://www.youtube.com/watch?v=B8mr7EwDxPs&list=PLHUyzRr_S0Tt2Dkh54M5UCP11eHO0XgdC&index=7)
 
 American Chemical Society Midland Fall Scientific Meeting | Midland, MI | October 2024
 - _A Network-Based SEIR Model for COVID-like Infectious Diseases via U.S. Air Transportation_
