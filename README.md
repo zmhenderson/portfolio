@@ -54,6 +54,9 @@ Utilized unsupervised and supervised **Machine Learning** methods to build a per
 
 ## Presentations
 
+Student Creavitve & Research Endeavors Exhibition | Mt. Pleasant, MI | April 2025
+- _Mapping Epidemic Spread with Transportation-Based SEIR Models_
+
 Three Minute Thesis | Mt. Pleasant, MI | February 2025
 - _A Transportation Model for Infectious Disease Prediction_
 
